@@ -1,6 +1,9 @@
 # AA-Project-2
 Repository for the second project of AA.
 
+# Report
+[Report](https://github.com/filipecolladavid/MultipleMyelomaSurvival/blob/main/MultipleMyelomaSurvivalReport.pdf)
+
 ## Dataset
 To store the dataset you must create a directory in the root of this repository called ```data```<br>
 The dataset will not be present in this repository, you must download it into the ```./data``` directory.<br>
